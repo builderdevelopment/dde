@@ -1,4 +1,4 @@
-label LK:
+label ch1-main:
     stop music fadeout 2.0
     scene bg bedroom
     with dissolve_scene_full
