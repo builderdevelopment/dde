@@ -20,14 +20,12 @@ label start:
 
     if persistent.playthrough == 0:
 
-        call LK
-
-        label test:
+        label pb:
             play music m1
-            "This is a DEVELOPER release. Please note, things are very buggy and some things are subject to change."
+            "This is a PUBLIC BETA release. Please note, things are very buggy and some things are subject to change."
             return
 
-        call test
+        call pb
 
         $ chapter = 0
         $ act = 1
@@ -44,4 +42,3 @@ label credits:
     play music credits
     "Thank you for playing."
     return
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
