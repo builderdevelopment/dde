@@ -1,3 +1,3 @@
 # Doki Doki Extended Github Repository
 Hey, the public beta should be ~~released~~ re-released once I finish the first chapter. Whenever that will be...
-### [Discord](https://discord.gg/eMTNBhrWGG) // [Roadmap](https://doki-extended.notion.site/0eca9a10ef304293841c04cf554eb939?v=2789a2bffb194bd484e824164c509873) // [Public Beta, Coming Soon.](https://github.com/keatonbuilder/dde/tree/public-beta-r1)
+### [Discord](https://discord.gg/eMTNBhrWGG) // [Roadmap](https://doki-extended.notion.site/0eca9a10ef304293841c04cf554eb939?v=2789a2bffb194bd484e824164c509873) // [Public Beta, Coming Soon.](https://github.com/keatonbuilder/dde/releases/tag/public-beta-r1)
