@@ -1,3 +1,3 @@
 # Doki Doki Extended Github Repository
-## Coming soon.
+Hey, the public beta should be ~~released~~ re-released once I finish the first chapter. Whenever that will be...
 ### [Discord](https://discord.gg/eMTNBhrWGG) // [Roadmap](https://doki-extended.notion.site/0eca9a10ef304293841c04cf554eb939?v=2789a2bffb194bd484e824164c509873)
