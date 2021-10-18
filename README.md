@@ -1,4 +1,4 @@
-# Doki Doki Extended Github Repository
+### October 15th, 2021
 ## Snapshot 21w41a is now released!
 **__Changelog__**
 - Added a warning at the beginning, just like normal DDLC. This is still a work in progress as the storyline gets written out, the warning will be updated accordingly.
