@@ -1,3 +1,7 @@
+### October 21st, 2021
+## NEW WEBSITE!
+It's still under construction, but it's up! https://dokidokiextended.keatonbuilder.repl.co/
+
 ### October 15th, 2021
 ## Snapshot 21w41a is now released!
 **__Changelog__**
