@@ -1,0 +1,17 @@
+header {
+  background-color: lightgray
+}
+
+h1, h2 {
+  font-family: arial;
+  color: black;
+  text-align: center;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 20px;
+}

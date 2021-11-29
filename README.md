@@ -1,2 +1,4 @@
-### [Discord](https://discord.gg/eMTNBhrWGG) // [Roadmap](https://doki-extended.notion.site/0eca9a10ef304293841c04cf554eb939?v=2789a2bffb194bd484e824164c509873) // [Latest Snapshot: 21w43b](https://github.com/builderdevelopment/dde/releases/tag/snap-21w43b) // [Website](https://builderdevelopment.github.io/dde/)
-#### Doki Doki Extended is a project of [Builder Development](https://builder-development.keatonbuilder.repl.co).
+# You aren't supposed to be here.
+## Turn back. Now.
+### [Main Branch](https://github.com/builderdevelopment/dde/tree/main)
+### [Web Branch](https://github.com/builderdevelopment/dde/tree/gh-pages)
