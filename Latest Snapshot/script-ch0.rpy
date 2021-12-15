@@ -169,4 +169,5 @@ label ch0_pt2:
     show yuri at t43 zorder 2
     show monika at t44 zorder 2
     m "Alright everyone, let's meet our new member!"
+    
     return
