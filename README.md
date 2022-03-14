@@ -9,7 +9,6 @@
 <h3 align="center">Doki Doki Extended</h3>
 
   <p align="center">
-    project_description
     <br />
     <a href="https://github.com/builderdevelopment/dde/wiki"><strong>Explore the docs »</strong></a>
     <br />
@@ -65,7 +64,7 @@ Doki Doki Extended is a mod for the hit visual novel “Doki Doki Literature Clu
 
 ### Prerequisites
 
-All you need to get started is a clean install of [Doki Doki Literature Club](https://ddlc.moe)!
+All you need to get started is a clean install of [Doki Doki Literature Club](https://ddlc.moe) and [the latest release of Doki Doki Extended](https://github.com/builderdevelopment/dde/releases).
    
 ### Installation
 
@@ -116,7 +115,7 @@ Distributed under the GNH GPLv3 License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@thebuilderdevs](https://twitter.com/thebuilderdevs) - thebuilderdevs@gmail.com
+The Builder Devs - [@thebuilderdevs](https://twitter.com/thebuilderdevs) - thebuilderdevs@gmail.com
 
 Project Link: [https://github.com/builderdevelopment/dde](https://github.com/builderdevelopment/dde)
 
